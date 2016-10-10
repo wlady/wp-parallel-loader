@@ -25,7 +25,7 @@ The WP Parallel Loader plugin reduces page loading time by substituting the orig
   * &lt;script src&#061;"**${domain}**/libs/angular.min.js"&gt;&lt;/script&gt;
   * &lt;script src&#061;"**{{domain}}**/libs/angular.min.js"&gt;&lt;/script&gt;
 
-* External URL in FQDN format.
+* External URL is in FQDN format.
 
 
 == Installation ==
