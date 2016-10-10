@@ -20,7 +20,7 @@ Substitution is turned off if:
 
 1. Upload `wp-parallel-loader.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Configure the hostnames and types of processed resources
+3. Configure the hostnames and types of resources to be processed
 
 ### Screenshots
 ![Settings Screen](screenshot-1.png)
