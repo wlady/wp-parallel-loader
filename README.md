@@ -1,7 +1,5 @@
 # WP Parallel Loader Plugin
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 The WP Parallel Loader plugin reduces page loading time by substituting the original resource URLs with configured hostnames to parallelize downloads across them. [Read more](http://gtmetrix.com/parallelize-downloads-across-hostnames.html)
 
 Substitution is turned off if:
@@ -22,7 +20,7 @@ Substitution is turned off if:
 
 1. Upload `wp-parallel-loader.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Configure hostnames to be used and type of processed resources
+3. Configure the hostnames and types of processed resources
 
 ### Screenshots
 ![Settings Screen](screenshot-1.png)
